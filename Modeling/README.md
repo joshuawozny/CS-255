@@ -5,3 +5,8 @@ Common models include:
 * Object Model
 * Business Use Case 
   * User Stories are often created to view from the User/Customer perspective
+
+
+## UML Diagrams
+Unified Modeling Language (UML) Diagrams are a standard manner in which Models are displayed.
+Each model type uses its own subset of UML symbols to most effectively communicate the information relevant to its purpose.
