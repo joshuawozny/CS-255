@@ -5,4 +5,4 @@ Gathering requirements is an art and a science, and a foundational to systems an
 ## Included in this folder
 * DriverPass Interview Transcript: This document is the starting point for the project we are developing throughout this course
 * Current Business Requirements Document
-* Folder containing previous version of the Business Requirements Document
+* Folder containing all versions of the Business Requirements Document with a changelog documenting changes between versions
