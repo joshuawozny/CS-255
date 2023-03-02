@@ -20,7 +20,5 @@ Overall our project plan, including requirements documentation and models adequa
 
 Client presentation materials were likely subpar, creating visually pleasing presentation is something I need to work on - however, the information presented was clear,and targeted to a non-technical user and was therefore serviceable.
 
-What did you do particularly well?
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+## TO DO
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
