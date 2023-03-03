@@ -18,7 +18,7 @@ developed functional and non-functional requirements, and user acceptance criter
 
 Overall our project plan, including requirements documentation and models adequately describe how our system should behave. Taking an iterative approach, these documents were updated as weaknesses were identified that made further work difficult. To make sure our users needs are always at the forefront of decions being made, user stories were developed from use cases whenever possible and used to clarify user acceptance criteria. I kept the client informed of progress, and provided samples, when possible, of the work I was doing - and gave as much flexibility, when possible, to add or refine requirements I had previously identified. 
 
-Client presentation materials were likely subpar, creating visually pleasing presentation is something I need to work on - however, the information presented was clear,and targeted to a non-technical user and was therefore serviceable.
+Client presentation materials not as visually engaging as I would like. Creating visually pleasing presentation is something I need to work on - however, the information presented was clear,and targeted to a non-technical user and was therefore serviceable.
 
 ## TO DO
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
