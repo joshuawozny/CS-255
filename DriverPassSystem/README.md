@@ -21,4 +21,5 @@ Overall our project plan, including requirements documentation and models adequa
 Client presentation materials not as visually engaging as I would like. Creating visually pleasing presentation is something I need to work on - however, the information presented was clear,and targeted to a non-technical user and was therefore serviceable.
 
 ## TO DO
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+* ADD to README: How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+* UPLOAD Client Presentation and System Design Document
