@@ -20,6 +20,5 @@ Overall our project plan, including requirements documentation and models adequa
 
 Client presentation materials not as visually engaging as I would like. Creating visually pleasing presentation is something I need to work on - however, the information presented was clear,and targeted to a non-technical user and was therefore serviceable.
 
-## TO DO
-* ADD to README: How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-* UPLOAD Client Presentation and System Design Document
+## DESIGN TECHNIQUES
+The most important aspect of designing a system is identify requirements. Depending on the methodology, waterfall or agile, this may be done during the intitial phases or continuously throughout the process. Once identified, modeling can assist in orgaizing how the system will work. In particular, I like to create object models, and process flow diagrams. For particular use cases, activity and sequence diagrams may be useful to clarify the system needs. Breaking use cases down into User Stories that present use cases from the user perspective, especially in Agile.
