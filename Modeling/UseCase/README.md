@@ -1,8 +1,8 @@
 # Use Cases
-A use case model consists of actors and use cases. An actor is an external entity that interacts with the system. It is someone or something that exchanges information with the system. For the most part, a use case represents a sequence of related actions initiated by an actor to accomplish a specific goal
+A use case model descriesb actors and use cases. An actor is an entity that interacts with the system, someone or something that exchanges information with the system. A use case represents a sequence of related actions performed by an actor to accomplish a specific objective (Valacich & George, 2019).
 
 
-> <i>CS-255 Module Four Assignment</i> walks through an excersise to describe a system represented by an object model. The example presented is a brick-and-mortar store that wishes to add an online storefront to sell their goods. Their desired online storefron has been modeled for us. We are tasked with provding an analysis of the objects that exist in the system and how their methods represent the functionality of the system. We then discuss the strengths and weaknesses of both process and object models.
+> <i>CS-255 Module Six Assignment</i> walks through an excersise to describes a system use case represented by a Sequence and Activity diagram. 
 <br>
 
 ## REFERENCES
